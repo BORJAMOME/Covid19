@@ -1,11 +1,11 @@
-install.packages("coronavirus") 
-library(coronavirus)
-
+#Cargamos las diferentes librerias necesarias para poder realizar en análisis.
+library(readr)
 library(readr)
 library(ggplot2)
 library(dplyr)
 library(pkgname)
 
+#Cargamos el archivo "coronavirus_dataset".
 confirmed_cases_worldwide <- read_csv("coronavirus_dataset")
 
 coronavirus_dataset
