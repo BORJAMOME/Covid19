@@ -1,2 +1,2 @@
 # Covid19
-Todo tipo de información sobre Covid19 analizado con R
+Análisis realizado con R para estudiar los datos del **Covid19** :microscope: durante los primeros meses de 2020.
